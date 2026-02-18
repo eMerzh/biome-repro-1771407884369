@@ -10,6 +10,14 @@
 		"ci": "biome ci"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "2.4.2"
+		"@biomejs/biome": "2.4.2",
+		"@types/react": "^19.2.14",
+		"@types/react-dom": "^19.2.3"
+	},
+	"dependencies": {
+		"react": "^19.2.4",
+		"react-dom": "^19.2.4",
+		"styled-components": "6.3.11",
+		"typescript": "^5.9.3"
 	}
 }
